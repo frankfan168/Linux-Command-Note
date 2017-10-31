@@ -180,8 +180,8 @@ jiazhen@jiazhen-VirtualBox:~$
 4       Desktop
 (END)
 ```
-![less_method_2](Chap1-3/less_method_2.png)
-![less_method_1](Chap1-3/less_method_1.png)
+![less_method_2](Chap01-03/less_method_2.png)
+![less_method_1](Chap01-03/less_method_1.png)
 
 * **uname** :
 

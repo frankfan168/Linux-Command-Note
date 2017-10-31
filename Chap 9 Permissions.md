@@ -44,7 +44,7 @@ jiazhen@jiazhen-VirtualBox:~$ ls -l user_space_report.txt
 ```
 
 
-<img src="Chap9/chmod_option_1.png" alt="chmod_option_1.png" width="600" />
+<img src="Chap09/chmod_option_1.png" alt="chmod_option_1.png" width="600" />
 
 * **sudo** :
 

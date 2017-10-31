@@ -58,11 +58,11 @@ Mandatory arguments to long options are mandatory for short options too.
 
 * **man** : 
 
-![man_option_1](Chap5/man_option_1.png)
+![man_option_1](Chap05/man_option_1.png)
 
 * **info** : 
 
-![info_option_1](Chap5/info_option_1.png)
+![info_option_1](Chap05/info_option_1.png)
 
 * **whatis** : 
 

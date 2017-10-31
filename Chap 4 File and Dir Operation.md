@@ -20,11 +20,11 @@
 
 ### Wildcards
 
-![wildcard_1](Chap4/wildcard_1.png)
+![wildcard_1](Chap04/wildcard_1.png)
 
-![wildcard_2](Chap4/wildcard_2.png)
+![wildcard_2](Chap04/wildcard_2.png)
 
-![wildcard_3](Chap4/wildcard_3.png)
+![wildcard_3](Chap04/wildcard_3.png)
 
 
 
@@ -37,9 +37,9 @@ cp -u *.html destination
 ```
 
   
-![cp_option_1](Chap4/cp_option_1.png)
+![cp_option_1](Chap04/cp_option_1.png)
 
-![cp_option_2](Chap4/cp_option_2.png)
+![cp_option_2](Chap04/cp_option_2.png)
 
 **PS:** cd is to get to the working directory and '.' means the current working directory. The cmd copies the passwd file from /etc to the current working directory. '-v' shows the detailed information of the operation. 
 
@@ -59,7 +59,7 @@ jiazhen@jiazhen-VirtualBox:~$ cp -v /etc/passwd .
 
 * **mv** : move file or directory
 
-![mv_option_1](Chap4/mv_option_1.png)
+![mv_option_1](Chap04/mv_option_1.png)
 
 **PS:** **mv** function copies all the information from passwd and moves to fun and deletes the previous file. It looks like **passwd** renames to **fun**.
 
@@ -93,7 +93,7 @@ dir1  dir2  dir3
 
 * **rm** : Whenever you use wildcards with rm (besides carefully checking your typing!), test the wildcard first with ls.
 
-![rm_option_1](Chap4/rm_option_1.png)
+![rm_option_1](Chap04/rm_option_1.png)
 
 * **in** : 
 
