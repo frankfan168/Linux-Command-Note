@@ -181,8 +181,8 @@ jiazhen@jiazhen-VirtualBox:~$
 (END)
 ```
 
-<img src="Chap01-03/less_method_2.png" width="600">
-<img src="Chap01-03/less_method_1.png" width="600">
+<img src="Chap01-03/less_method_2.png" width="700">
+<img src="Chap01-03/less_method_1.png" width="700">
 
 * **uname** :
 
