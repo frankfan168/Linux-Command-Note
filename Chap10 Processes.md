@@ -42,9 +42,9 @@ root         3  0.0  0.0      0     0 ?        S    Feb05   0:00 [ksoftirqd/0]
 root         5  0.0  0.0      0     0 ?        S<   Feb05   0:00 [kworker/0:0H]
 ```
 
-![ps_option_1.png](Chap10/ps_option_1.png)
+<img src="Chap10/ps_option_1.png" width="700">
 
-![ps_option_2.png](Chap10/ps_option_2.png)
+<img src="Chap10/ps_option_2.png" width="700">
 
 * **top** : 
 
@@ -58,9 +58,9 @@ KiB Mem :  4046540 total,  1934260 free,   708312 used,  1403968 buff/cache
 KiB Swap:  4192252 total,  4192252 free,        0 used.  3041380 avail Mem 
 ```
 
-![top_option_1.png](Chap10/top_option_1.png)
+<img src="Chap10/top_option_1.png" width="700">
 
-![top_option_2.png](Chap10/top_option_2.png)
+<img src="Chap10/top_option_2.png" width="700">
 
 * **jobs** : xlogo & is to put xlogo program to background
 
@@ -103,7 +103,7 @@ jiazhen@jiazhen-VirtualBox:~$ xlogo &
 jiazhen@jiazhen-VirtualBox:~$ kill %1
 ```
 
-![kill_option_1.png](Chap10/top_option_1.png)
+<img src="Chap10/top_option_1.png" width="600">
 
 * **killall** : 
 

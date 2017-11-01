@@ -49,7 +49,7 @@ aA1b aA2b aB3b aB4b
 
 * Create folders with Date/Time
 
-![echo_option_1](Chap07-08/echo_option_1.png)
+<img src="Chap07-08/echo_option_1.png" width="700">
 
 * Echo Current User
 
@@ -62,11 +62,11 @@ jiazhen@jiazhen-VirtualBox:~$ ls -l $(which cp)
 
 * Echo usage on pipeline
 
-![echo_option_2](Chap07-08/echo_option_2.png)
+<img src="Chap07-08/echo_option_2.png" width="700">
 
 * Echo with restriction of single quotes and double quotes
 
-![echo_option_3](Chap07-08/echo_option_3.png)
+<img src="Chap07-08/echo_option_3.png" width="700">
 
 * Escaping Characters: Adding the ‘-e’ option to echo will enable interpretation of escape sequences. 
 
@@ -75,7 +75,7 @@ jiazhen@jiazhen-VirtualBox:~$ echo "The balance for user $USER is: \$5.00"
 The balance for user jiazhen is: $5.00
 ```
 
-![echo_option_4](Chap07-08/echo_option_4.png)
+<img src="Chap07-08/echo_option_4.png" width="700">
 
 * echo 命令带上‘-e’ 选项，能够解释转义序列
 
