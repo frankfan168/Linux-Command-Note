@@ -103,7 +103,8 @@ jiazhen@jiazhen-VirtualBox:~$ xlogo &
 jiazhen@jiazhen-VirtualBox:~$ kill %1
 ```
 
-<img src="Chap10/top_option_1.png" width="600">
+<img src="Chap10/kill_option_1.png" width="700">
+
 
 * **killall** : 
 
