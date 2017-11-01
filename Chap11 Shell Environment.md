@@ -29,7 +29,7 @@ SHELL=/bin/bash
 ```
 
 * **Startup Files For Login Shell Sessions**
-* The ~/.bashrc file is probably the most important startup file from the ordinary user’spoint of view, since it is almost always read.
+* The .bashrc file is probably the most important startup file from the ordinary user’spoint of view, since it is almost always read.
 
 <img src="Chap11/startupfile_login1.png" width="700">
 
