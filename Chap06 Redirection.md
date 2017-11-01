@@ -80,7 +80,7 @@ jiazhen@jiazhen-VirtualBox:~$ wc -l user_space_report.txt
 
 * **grep** :
 
-![grep_option_1](Chap06/grep_option_1.png)
+<img src="Chap06/grep_option_1.png" width="700">
 
 * **head & tail** :
 
@@ -98,7 +98,8 @@ jiazhen@jiazhen-VirtualBox:~$ tail -n 5 user_space_report.txt
 4	Documents
 4	Desktop
 ```
-![tail_option_1](Chap06/tail_option_1.png)
+
+<img src="Chap06/tail_option_1.png" width="700">
 
 * **tee** : The tee program reads standard input and copies it to both standard output
 
