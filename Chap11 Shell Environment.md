@@ -6,7 +6,7 @@
 
 * **set** : Set shell options
 
-* **expport** : Export environment to subsequently executed programs
+* **export** : Export environment to subsequently executed programs
 
 * **alias** : Create an alias for a command
 
