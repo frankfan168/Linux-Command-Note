@@ -93,7 +93,7 @@ dir1  dir2  dir3
 
 <img src="Chap04/rm_option_1.png" width="700">  
 
-* **in** : 
+* **ln** : 
 
 **PS:** create ln hard link, there are four instances for fun. fun and fun-hard are the same file actually.
 
