@@ -1,14 +1,14 @@
-# Chap 12 VIM
+# Chap 10 Processes
 
 ### Several Common Commandline
 
-* **:q** : To exit vim
+* **ps** : Report a snapshot of current processes
 
-* **:q!** : To exit vim withou save
+* **jobs** : List active jobs
 
-* **--INSERT--** : Click 'i' to enter insert mode
+* **bg** : Place a job in the background
 
-* **:w** : Save
+* **fg** : Place a job in the foreground
 
 * **kill** : Send a signal to a process
 
@@ -103,8 +103,7 @@ jiazhen@jiazhen-VirtualBox:~$ xlogo &
 jiazhen@jiazhen-VirtualBox:~$ kill %1
 ```
 
-<img src="Chap10/kill_option_1.png" width="600">
-
+<img src="Chap10/kill_option_1.png" width="700">
 
 * **killall** : 
 
