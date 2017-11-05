@@ -157,7 +157,7 @@ ssh-keygen -R [your domain name or IP address]
 
 **Solution2:** 
 
-Delete Offending key in /home/user/.ssh/known_hosts:4 from /.ssh/known_hosts
+Delete Offending key in /home/user/.ssh/known_hosts:4 from /.ssh/known__hosts
 
 
 * **scp** :
