@@ -66,11 +66,11 @@ jiazhen@ubuntu:~$ find ~ -type f -name "*.php" -size +1k
 /home/jiazhen/index.php
 ```
 
-<img src="Chap17/find_type_1.png" width="700">
+<img src="Chap17/find_type_1.png" width="600">
 
-<img src="Chap17/find_type_2.png" width="700">
+<img src="Chap17/find_type_2.png" width="600">
 
-<img src="Chap17/find_type_3.png" width="700">
+<img src="Chap17/find_type_3.png" width="600">
 
 * **Operation Signal** : find provides a way to combine tests using logical operators to create more complexlogical relationships.
 
@@ -83,13 +83,13 @@ find ~ -type f -name 'foo*' -exec ls -l '{}' ';'
 find ~ -type f -name 'foo*' -exec ls -l '{}' '+'
 ```
 
-<img src="Chap17/find_type_4.png" width="700">
+<img src="Chap17/find_type_4.png" width="600">
 
 ```
 find ~ -type f -name '*.BAK' -delete
 ```
 
-<img src="Chap17/find_type_5.png" width="700">
+<img src="Chap17/find_type_5.png" width="600">
 
 * **xargs** : It accepts input from standard inputand converts it into an argument list for a specified command
 
