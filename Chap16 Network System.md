@@ -160,12 +160,17 @@ ssh-keygen -R [your domain name or IP address]
 Delete Offending key in /home/user/.ssh/known_hosts:4 from /.ssh/known__hosts
 
 
-* **scp** :
+* **scp** : copy from server to local
 
 ```
-[me@linuxbox ~]$ scp bob@remote-sys:document.txt
+scp username@remote:/path/to/file /path/to/store/file
 ```
 
+* **scp** : copy from local to server 
+
+```
+scp /file/to/send username@remote:/where/to/put
+```
 
 * **sftp** : 
 
