@@ -59,3 +59,12 @@ vim-runtime: /usr/share/vim/vim74/lang/menu_af_af.utf-8.vim
 vim-runtime: /usr/share/vim/vim74/doc/print.txt
 vim-runtime: /usr/share/vim/vim74/syntax/jovial.vim
 ```
+
+* **shasum -a** : Choose detailed method of hash function
+
+```
+jiazhen@ubuntu:~/Downloads$ shasum -a256 examples.desktop 
+913b87897ffb6dca07e9f17e280aa8ecb9886dffeda8a15efeafec11dec0d108  examples.desktop
+jiazhen@ubuntu:~/Downloads$ shasum examples.desktop 
+a64e9fede92c55932ce82d77891f77a1f015a9f1  examples.desktop
+```
