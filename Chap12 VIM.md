@@ -44,6 +44,10 @@
 
 <img src="Chap12/CopyText_1.png" width="700">
 
+* **Show Line Number** : Type (:set number)
+
+* **Hide Line Number** : Type (:set nonumber)
+
 
 * **Searching The Entire File** : Use "/" then type the word or phrase, a search may be repeated using the previous search string with the n command.
 
